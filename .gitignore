@@ -1,0 +1,10 @@
+# Nix build results
+result
+result-*
+
+# direnv
+.direnv/
+
+# Fish
+dotfiles/fish/fish_variables
+dotfiles/fish/secrets/
