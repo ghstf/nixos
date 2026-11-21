@@ -30,5 +30,7 @@
     ".config/nvim/lua/config/keymaps.lua".source = ../dotfiles/nvim/lua/config/keymaps.lua;
     ".config/nvim/lua/plugins/added.lua".source = ../dotfiles/nvim/lua/plugins/added.lua;
     ".config/nvim/lua/plugins/colors.lua".source = ../dotfiles/nvim/lua/plugins/colors.lua;
+
+    ".codex/AGENTS.md".source = ../dotfiles/AGENTS.md;
   };
 }
