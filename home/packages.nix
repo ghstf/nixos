@@ -39,6 +39,7 @@
     wl-clipboard
 
     # Applications
+    chatgpt
     mpv
     obsidian
     rainfrog
