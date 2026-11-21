@@ -7,6 +7,7 @@
     starship
 
     # Development
+    codex
     crush
     delta
     devenv
