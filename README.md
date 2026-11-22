@@ -22,7 +22,7 @@ git clone https://github.com/ghstf/nixos ~/nixos
 Restore secrets that live outside the store:
 
 ```sh
-# WireGuard — copy your key material back
+# WireGuard
 sudo cp proton.conf /etc/wireguard/proton.conf
 sudo chmod 600 /etc/wireguard/proton.conf
 
