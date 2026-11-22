@@ -25,7 +25,6 @@ fzf --fish | source
 # Aliases
 
 alias hype="uwsm start hyprland-uwsm.desktop"
-alias update="sudo nixos-rebuild switch --flake ~/nixos#ghost"
 
 # Functions
 
