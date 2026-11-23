@@ -53,5 +53,6 @@
     nix-ld.enable = true;
   };
 
+  services.flatpak.enable = true;
   services.xserver.xkb.layout = "us";
 }
