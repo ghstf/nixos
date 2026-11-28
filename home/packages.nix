@@ -43,6 +43,7 @@
     mpv
     obsidian
     rainfrog
+    typst
 
     proton-cli.packages.${pkgs.system}.default
   ];
